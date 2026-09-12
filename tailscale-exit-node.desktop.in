@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Tailscale Exit Node
+Comment=Choose or disable a Tailscale exit node
+Exec=__SCRIPT_PATH__
+Icon=network-vpn
+Terminal=false
+Categories=Network;Utility;
+StartupNotify=true
